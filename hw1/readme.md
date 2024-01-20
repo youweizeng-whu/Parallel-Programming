@@ -1,6 +1,7 @@
 # compile and run
 
 nvcc hw1-color2gray.cu -lpng -o your_program
+
 ./your_program
 
 # benchmark(time)
